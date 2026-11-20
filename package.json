@@ -293,7 +293,7 @@
     "motion": "12.23.26",
     "music-metadata": "11.14.0",
     "nanoid": "5.1.16",
-    "node-forge": "1.4.0",
+    "node-forge": "1.4.3",
     "node-pty": "1.1.0",
     "onnxruntime-node": "1.24.3",
     "openai": "6.26.0",
