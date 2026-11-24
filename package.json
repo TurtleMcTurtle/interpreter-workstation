@@ -279,7 +279,7 @@
     "get-port": "7.1.0",
     "grammy": "1.39.3",
     "gray-matter": "4.0.3",
-    "i18next": "25.8.13",
+    "i18next": "26.3.4",
     "interpreter-window-pin": "file:./apps/interpreter-overlay/native/window-pin",
     "json-rpc-2.0": "1.7.1",
     "jszip": "3.10.1",
