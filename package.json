@@ -289,7 +289,7 @@
     "lucide-react": "0.468.0",
     "mammoth": "1.11.0",
     "marked": "17.0.3",
-    "minimatch": "10.2.6",
+    "minimatch": "11.0.1",
     "motion": "12.23.26",
     "music-metadata": "11.14.0",
     "nanoid": "5.1.16",
